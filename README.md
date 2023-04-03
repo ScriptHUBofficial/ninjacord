@@ -1,0 +1,2 @@
+# ninjacord
+NİNJACORD FREE MULTİ DİSCORD TOOLS
