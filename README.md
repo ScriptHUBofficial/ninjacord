@@ -1,4 +1,4 @@
-# ninjacord
+# NİNJACORD
 NİNJACORD FREE MULTİ DİSCORD TOOLS
 
 ![image](https://user-images.githubusercontent.com/106864876/229640868-d1c6a521-dd39-4a8c-9988-8b7a65b35fc5.png)
